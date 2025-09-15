@@ -1,6 +1,6 @@
 {
   "name": "photographer-portfolio",
-  "homepage": "https://yourusername.github.io/photographer-portfolio",
+  "homepage": "https://solilosblog.github.io/photographer-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
